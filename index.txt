@@ -1,2 +1,2 @@
 what: 
-This is sample text file.
+This is sample text file in github.
